@@ -1,0 +1,22 @@
+body{
+    background: skyblue;
+}
+
+table{
+    width: 75%;
+    font-size:large;
+    background: brown;
+    margin: auto;
+}
+
+th,td{
+    padding:20px;
+}
+
+table,td,th{
+    border-collapse: collapse;
+}
+
+caption{
+    text-align: center;
+}

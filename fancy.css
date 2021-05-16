@@ -1,0 +1,32 @@
+body{
+    background:whitesmoke;
+}
+
+table{
+    width: 75%;
+    font-size: large;
+    margin: auto;
+    background: cornsilk;
+}
+
+tr:nth-child(odd){
+    background-color: skyblue;
+}
+
+th,td{
+    padding: 20px;
+}
+
+th{
+    background: blue;
+    color: white;
+}
+
+td{
+    border-bottom: 1px solid black;
+}
+
+table,td,th{
+    border-collapse: collapse;
+}
+
